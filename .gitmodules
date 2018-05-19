@@ -4,3 +4,6 @@
 [submodule "skeleton-sp18"]
 	path = skeleton-sp18
 	url = https://github.com/hexinatgithub/skeleton-sp18.git
+[submodule "algs4"]
+	path = algs4
+	url = https://github.com/hexinatgithub/algs4.git
